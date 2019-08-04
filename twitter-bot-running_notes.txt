@@ -1,0 +1,51 @@
+//body//div[@class='css-1dbjc4n']//div[@class='css-1dbjc4n']//div[2]//div[1]//div[1]//article[1]
+
+
+
+
+//body/div[@id='react-root']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-18u37iz r-1pi2tsx r-sa2ff0 r-13qz1uu r-417010']/main[@class='css-1dbjc4n r-1habvwh r-16y2uox r-1wbh5a2']/div[@class='css-1dbjc4n r-150rngu r-16y2uox r-1wbh5a2 r-rthrr5']/div[@class='css-1dbjc4n r-aqfbo4 r-1niwhzg r-16y2uox']/div[@class='css-1dbjc4n r-1oszu61 r-1niwhzg r-18u37iz r-16y2uox r-2llsf r-13qz1uu']/div[@class='css-1dbjc4n r-14lw9ot r-1tlfku8 r-1ljd8xs r-13l2t4g r-1phboty r-1jgb5lz r-1ye8kvj r-13qz1uu r-184en5c']/div[@class='css-1dbjc4n r-16y2uox']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/section[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div/div/div[2]/div[1]/div[1]/article[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
+
+
+
+
+
+
+//body/div[@id='react-root']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-18u37iz r-1pi2tsx r-sa2ff0 r-13qz1uu r-417010']/main[@class='css-1dbjc4n r-1habvwh r-16y2uox r-1wbh5a2']/div[@class='css-1dbjc4n r-150rngu r-16y2uox r-1wbh5a2 r-rthrr5']/div[@class='css-1dbjc4n r-aqfbo4 r-1niwhzg r-16y2uox']/div[@class='css-1dbjc4n r-1oszu61 r-1niwhzg r-18u37iz r-16y2uox r-2llsf r-13qz1uu']/div[@class='css-1dbjc4n r-14lw9ot r-1tlfku8 r-1ljd8xs r-13l2t4g r-1phboty r-1jgb5lz r-1ye8kvj r-13qz1uu r-184en5c']/div[@class='css-1dbjc4n r-16y2uox']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/section[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div/div/div/div[@class='css-1dbjc4n r-my5ep6 r-qklmqi r-1adg3ll']/article[@class='css-1dbjc4n r-1udh08x r-utggzx']/div[@class='css-1dbjc4n r-1oszu61 r-1gkumvb r-1efd50x r-5kkj8d r-18u37iz r-ahm1il r-a2tzq0']/div[3]/div[1]/div[1]
+
+
+//body/div[@id='react-root']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-18u37iz r-1pi2tsx r-sa2ff0 r-13qz1uu r-417010']/main[@class='css-1dbjc4n r-1habvwh r-16y2uox r-1wbh5a2']/div[@class='css-1dbjc4n r-150rngu r-16y2uox r-1wbh5a2 r-rthrr5']/div[@class='css-1dbjc4n r-aqfbo4 r-1niwhzg r-16y2uox']/div[@class='css-1dbjc4n r-1oszu61 r-1niwhzg r-18u37iz r-16y2uox r-2llsf r-13qz1uu']/div[@class='css-1dbjc4n r-14lw9ot r-1tlfku8 r-1ljd8xs r-13l2t4g r-1phboty r-1jgb5lz r-1ye8kvj r-13qz1uu r-184en5c']/div[@class='css-1dbjc4n r-16y2uox']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/section[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div/div/div/div[@class='css-1dbjc4n r-my5ep6 r-qklmqi r-1adg3ll']/article[@class='css-1dbjc4n r-1udh08x r-utggzx']/div[@class='css-1dbjc4n r-1oszu61 r-1gkumvb r-1efd50x r-5kkj8d r-18u37iz r-ahm1il r-a2tzq0']/div[3]/div[1]/div[1]/div[1]/*[1]
+
+
+
+This is svg tag. For svg tag, no need to write selector. :P
+
+/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[7]/div[3]/div[1]/div[1]/div[1]/*
+
+
+//div[@class='css-901oao r-1awozwy r-daml9f r-6koalj r-1qd0xha r-a023e6 r-16dba41 r-1h0z5md r-ad9z0x r-bcqeeo r-o7ynqc r-clp7b1 r-3s2u2q r-qvutc0']//*[@class='r-4qtqp9 r-yyyyoo r-50lct3 r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-1srniue']
+
+
+
+//*[@id="react-root"]/div/div/div/main/div/div[2]/div/div[1]/div/div/div[2]/div/section/div/div/div/div[1]/div/article/div[7]/div[3]/div/div/div/svg
+
+//div[@class='css-1dbjc4n r-1oszu61 r-1gkumvb r-1efd50x r-5kkj8d r-18u37iz r-ahm1il r-a2tzq0']
+
+
+//body/div[@id='react-root']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-13awgt0 r-12vffkv']/div[@class='css-1dbjc4n r-18u37iz r-1pi2tsx r-sa2ff0 r-13qz1uu r-417010']/main[@class='css-1dbjc4n r-1habvwh r-16xksha r-1wbh5a2']/div[@class='css-1dbjc4n r-150rngu r-16y2uox r-1wbh5a2 r-33ulu8']/div[@class='css-1dbjc4n r-aqfbo4 r-1niwhzg r-16y2uox']/div[@class='css-1dbjc4n r-1oszu61 r-1niwhzg r-18u37iz r-16y2uox r-2llsf r-13qz1uu']/div[@class='css-1dbjc4n r-14lw9ot r-1tlfku8 r-1ljd8xs r-13l2t4g r-1phboty r-1jgb5lz r-1ye8kvj r-13qz1uu r-184en5c']/div[@class='css-1dbjc4n r-16y2uox']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/section[@class='css-1dbjc4n']/div[@class='css-1dbjc4n']/div/div/div/div[@class='css-1dbjc4n r-my5ep6 r-qklmqi r-1adg3ll']/article[@class='css-1dbjc4n r-1udh08x r-utggzx']/div[@class='css-1dbjc4n r-1oszu61 r-1gkumvb r-1efd50x r-5kkj8d r-18u37iz r-ahm1il r-a2tzq0']/div[3]/div[1]
+
+
+
+<article role="article" data-focusable="true" tabindex="0" class="css-1dbjc4n r-1udh08x r-utggzx" data-testid="tweetDetail"><div class="css-1dbjc4n">
+
+<article aria-haspopup="false" role="article" data-focusable="true" tabindex="0" class="css-1dbjc4n r-1loqt21 r-1udh08x r-l4ido4 r-utggzx r-1k3wbuw r-rjfia">
+
+
+if art.get_attribute('data-testid') == 'tweetDetail':
+                        actions.move_to_element(art).perform()
+                        art.send_keys('l')
+                        print('Clicked-article', link)
+                        time.sleep(5)
+
+
+
+

@@ -1,0 +1,1066 @@
+1569766857167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofile.ZUSOQe6wTFvo"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1569766858814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569766858814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569766858815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569766858815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569766862414	Marionette	INFO	Listening on port 63882
+1569766862827	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 10[Parent 8928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1569766887988	Marionette	INFO	Stopped listening on port 63882
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569766940861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofile.WWuFqsvWVPin"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1569766942293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569766942293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569766942294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569766942294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569766946374	Marionette	INFO	Listening on port 63926
+1569766946700	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1569766988808	Marionette	INFO	Stopped listening on port 63926
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ddons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569766982611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569766982611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569766986075	Marionette	INFO	Listening on port 63966
+1569766986354	Marionette	WARN	TLS certificate errors will be ignored for this session
+[[Child 11320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 11524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1569767012921	Marionette	INFO	Stopped listening on port 63966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3696, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+est: Invalid extension permission: resource://pdf.js/
+1569767011247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569767015439	Marionette	INFO	Listening on port 64000
+1569767015496	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1664, Chrome_ChildThread] WARNING: pipe [Parent 13856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to sendJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569767076448	Marionette	INFO	Listening on port 64142
+1569767076522	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 9556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x54000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 9556, Ch[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 31569767119731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\1569767119982	Marionette	INFO	Stopped listeninconsole.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1569767121431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569767121431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569767121432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569767121432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569767125229	Marionette	INFO	Listening on port 64280
+1569767125484	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14136, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 14136, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Child 5988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5988, Chrome_ChildThread] WARNING: pipe error: 109: fi[Parent 14136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_c[Child 13236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi1569767163112	Marionette	INFO	Stopped listening on port 64280
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569767182807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofile.H1hAotMqMHum"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1569767184621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569767184622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569767184623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569767184623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569767188710	Marionette	INFO	Listening on port 64398
+1569767188748	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3736, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 3736, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 3736, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568[Parent 3736, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hild 14212, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 3736, Gecko_IOThread] WARNING: pipe error: 109: file z:/taskJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569767451389	Marionette	INFO	Listening on port 64638
+1569767451399	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10384, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 10384, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 10384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_Rel1569767493358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569767493358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+156[Parent 10384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1569767494865	Marionette	INFO	StoJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569767497475	Marionette	INFO	Listening on port 64774
+1569767497578	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3860, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 3860, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1552, [Parent 3860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8860, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 8860, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 8860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1569767728028	Marionette	INFO	Stopped listening on port 64774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 111
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sk_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8328, Chrome_ChildThread] WARNING: pipe e
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rror: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1569767727778	Marionette	INFO	Stopped listening on port 65025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+[Child 10900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_156872IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 2100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1569769608552	Marionette	INFO	Stopped listening on port 65176
+[GPU 11308, 1571758482100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileL3c3FG"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571758483326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571758483327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571758483327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571758483327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571758486491	Marionette	INFO	Listening on port 62100
+1571758486567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571758497802	Marionette	INFO	Stopped listening on port 62100
+[Parent 12204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17788,[Parent 12204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571759033398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilesHhySL"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571759034596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571759034597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571759034597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571759034597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571759038411	Marionette	INFO	Listening on port 56643
+1571759038462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571759094958	Marionette	INFO	Stopped listening on port 56643
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 7360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chiconsole.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1571759122927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileUif7Hv"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571759123954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571759123954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571759123954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571759123954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571759127570	Marionette	INFO	Listening on port 56857
+1571759127959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571759148855	Marionette	INFO	Stopped listening on port 56857
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 9204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 81571759395211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilenVhOB7"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571759396139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571759396139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571759396139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571759396139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571759399890	Marionette	INFO	Listening on port 57299
+1571759400240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571759424145	Marionette	INFO	Stopped listening on port 57299
+[Parent 7856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 10508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10508, [Parent 7856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9480, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571759793883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofile3FZC9e"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571759794764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571759794764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571759794764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571759794764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571759798280	Marionette	INFO	Listening on port 57855
+1571759798302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571759812258	Marionette	INFO	Stopped listening on port 57855
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 8700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17336, Chrome_ChildThread] WARNING: [Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571759825828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileCZ6wIw"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571759827726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571759827726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571759827726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571759827726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1571759830894	Marionette	INFO	Listening on port 58004
+1571759831343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571759865814	Marionette	INFO	Stopped listening on port 58004
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 208, Chrome_ChildThread] WARNING:[Parent 9504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3588, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571759959728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilebD65Lt"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571759960664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571759960664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571759960664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571759960664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571759963988	Marionette	INFO	Listening on port 58343
+1571759964142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571760015269	Marionette	INFO	Stopped listening on port 58343
+[Parent 236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChilJavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 16704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1571760095129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilenPgIMS"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571760096071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571760096071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571760096072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571760096072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571760099270	Marionette	INFO	Listening on port 58604
+1571760099530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571760133622	Marionette	INFO	Stopped listening on port 58604
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 15056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15056, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9904, Chrome_ChildThread[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571760270869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileB4GTqq"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571760272034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571760272034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571760272035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571760272035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571760275953	Marionette	INFO	Listening on port 62176
+1571760276393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571760304047	Marionette	INFO	Stopped listening on port 62176
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 11444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11444, Chrome_ChildThread] WARNING: pipe error: 109:[Child 9460, Chrome_ChildThread] WARNING
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: p
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9460, Chr[Parent 18116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16696, Chrome_ChildThre[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571760320541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileAriVaU"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571760321513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571760321513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571760321513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571760321513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571760325696	Marionette	INFO	Listening on port 62365
+1571760326066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571760346816	Marionette	INFO	Stopped listening on port 62365
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 8276, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18108, Chrome_ChildT[Child 12320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12320, Chrome_ChildThread] W[Parent 8276, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571760371032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileCSG2sW"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571760372188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571760372189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571760372189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571760372189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571760376147	Marionette	INFO	Listening on port 62540
+1571760376566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571760397737	Marionette	INFO	Stopped listening on port 62540
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 8744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18876, Chrome_Ch[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571760472196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofile9eNO0D"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571760473090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571760473090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571760473090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571760473090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571760476262	Marionette	INFO	Listening on port 62770
+1571760476637	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1140:3
+
+[Parent 7524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7524, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1571760484617	Marionette	INFO	Stopped listening on port 62770
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571760490051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilewF7QXq"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571760491024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571760491024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571760491025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571760491025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571760494225	Marionette	INFO	Listening on port 62847
+1571760494496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 19364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/[Child 6724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Parent 19364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15548, Chrome_ChildThr1571760576099	Marionette	INFO	Stopped listening on port 62847
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571760727212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileeuDVXi"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571760728112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571760728113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571760728113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571760728113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571760731740	Marionette	INFO	Listening on port 63274
+1571760732233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 17180, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17180, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 17180, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ip1571761386152	Marionette	INFO	Stopped listening on port 63274
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+[Parent 9544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 9544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 9544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12788, Chro1571761392659	Marionette	INFO	Stopped listening on port 64116
+[GPU 2660, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571761407360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileB42bY7"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571761408296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571761408296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571761408296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571761408296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571761411538	Marionette	INFO	Listening on port 64350
+1571761411780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+[Parent 920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14[Child 19432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19432, Chrome_ChildThread] WA15717615462JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 15468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8236, Chro[Child 17236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Parent 15468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/1571761630236	Marionette	INFO	Stopped listening on port 64762
+
+###!!! [Child][MessJavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/require.min.js, line 1: Error: Script error for "//saxp.zedo.com/sclient/tt3/fmos.js?1571761654466"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 1080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 3952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9532[Parent 1080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1571761715146	Marionette	INFO	Stopped listening on port 65018
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571761738991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileC1vjgZ"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571761740147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571761740147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571761740148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571761740148	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571761743264	Marionette	INFO	Listening on port 65327
+1571761743415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 8796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 8796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1571761844920	Marionette	INFO	Stopped listening on port 65327
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571761856213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilejTZfuo"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571761857074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571761857074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571761857074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571761857074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571761859953	Marionette	INFO	Listening on port 49234
+1571761860131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/require.min.js, line 1: Error: Script error for "//saxp.zedo.com/sclient/tt3/fmos.js?1571761883647"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 7600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 76[Child 4360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4360, Chrome_ChildThread] WARNING: pipe e[Parent 17460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1571761995430	Marionette	INFO	Stopped listening on port 49234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messaJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 5464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 5464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 5464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14211571762108985	Marionette	INFO	Stopped listening on port 49533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571762111816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilecxYptX"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571762112701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571762112701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571762112702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571762112702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571762115472	Marionette	INFO	Listening on port 49797
+1571762115715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12732, Chrome_ChildThread] WARNING: pipe error: 109: f[Child 17488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 9804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1571762603448	Marionette	INFO	Stopped listening on port 49797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 10656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 10656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 170[Child 10740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9908, Chrome_ChildThread] WARNING: pipe error: 109: file 1571762607361	Marionette	INFO	Stopped listening on port 50549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1854
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571762639996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilef1rtKm"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571762641125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571762641125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571762641125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571762641125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571762644200	Marionette	INFO	Listening on port 54739
+1571762644413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+1571762664338	Marionette	INFO	Stopped listening on port 54739
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 7424, Gecko_IOThread] WARNING: file z:/task_1570640083/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 7424, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7424, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11752, C[Parent 7424, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571762682026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofileWdECYC"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571762682926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571762682927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571762682927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571762682927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571762685925	Marionette	INFO	Listening on port 54940
+1571762686427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+JavaScript error: https://static.naukimg.com/s/5/105/j/mnj_v63.min.js, line 2: TypeError: b is null
+1571762789915	Marionette	INFO	Stopped listening on port 54940
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Child 13484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13484, C[Parent 10200, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571762872293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilexQtiif"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571762873110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571762873110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571762873110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571762873110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571762876047	Marionette	INFO	Listening on port 55326
+1571762876191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+[Parent 5688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 5688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11844, Chrome_ChildThr[Child 6140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[Parent 5688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1571762995661	Marionette	INFO	Stopped listening on port 55326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1571763022184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\Temp\\rust_mozprofilecasst6"
+console.error: Enterprise Policies: 
+  Unknown policy: CheckDefault
+1571763023041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571763023041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571763023041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571763023041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1351: uncaught exception: 2147746065
+1571763026044	Marionette	INFO	Listening on port 55659
+1571763026092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: https://static.naukimg.com/s/5/105/j/app_v126.min.js, line 3: Error: Custom driver not compliant; see https://mozilla.github.io/localForage/#definedriver
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+1571763173945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1571763174680	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1571763175422	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1571763175636	Marionette	INFO	Stopped listening on port 55659
+[Child 12808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 16460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18[Parent 16460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chconsole.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

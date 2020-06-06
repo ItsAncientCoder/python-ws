@@ -1,0 +1,22 @@
+#########
+import time as t
+expand_genre_list(driver)
+
+book_genre_a_tags = driver.find_element_by_class_name('_3aoPnm').find_elements_by_tag_name('a')
+book_genre_a_tags = [x for x in book_genre_a_tags if x.get_attribute('class')=='_2SvCnW']
+for genre_a_tag in book_genre_a_tags:
+    genre_name = genre_a_tag.text
+    driver.find_element_by_link_text(genre_name).click()
+    #print('genre_name',genre_name)
+    expand_genre_list(driver)
+    sub_genre_a_tags = driver.find_element_by_class_name('_3aoPnm').find_elements_by_class_name('_2SvCnW')
+    for sub_genre_tag in sub_genre_a_tags:
+        sub_genre_tag_name = sub_genre_tag.text
+        print('sub_genre_tag_name',sub_genre_tag_name)
+        t.sleep(5)
+        driver.find_element_by_link_text(sub_genre_tag.text).click()
+        prod_a_tags = driver.find_elements_by_class_name('_2cLu-l')
+        prod_links =[prod_a_tag.get_attribute('href') for prod_a_tag in prod_a_tags]
+        print(len(prod_links))
+    break;
+#########
